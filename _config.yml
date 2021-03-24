@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "이현우"
 description              : "시스템 프로그램을 위한 C언어"
-url                      : "https://hwlee0.github.io"
+url                      : "https://hwlee0/hwlee0.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "hwlee0/hwlee0.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
