@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "유튜브 동영상 삽입하기
+title: "유튜브 동영상 삽입하기"
 toc: true
 toc_sticky: true
 toc_label: "유튜브 영상"
