@@ -5,7 +5,6 @@ toc: true
 toc_sticky: true
 toc_label: "유튜브 영상"
 ---
-
 ### 01. 야구
 {% include video id="pWH6LyQhDhA" provider="youtube" %}
 
